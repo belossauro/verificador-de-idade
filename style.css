@@ -1,0 +1,45 @@
+body {
+  background: rgb(70, 142, 236);
+  font: normal 15pt Arial;
+}
+
+header {
+  color: white;
+  text-align: center;
+}
+
+section {
+  background: white;
+  border-radius: 10px;
+  padding: 5px;
+  margin: auto;
+  width: 400pt;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
+}
+
+footer {
+  margin-top: 20px;
+  color: white;
+  text-align: center;
+  font-style: italic;
+}
+
+
+div {
+  padding: 8px;
+}
+
+p {
+  margin: 0;
+}
+
+#msgErro {
+  padding-top: 0;
+}
+
+#msg {
+  text-align: center;
+}
+#foto {
+  justify-content: center;
+}
