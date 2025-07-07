@@ -113,4 +113,3 @@ function msgOff() {
   } else if (sexo[1].checked) {
     document.querySelector('div#msgErro').style.display = "none"
   }}
-// quando terminar botar caveira
